@@ -330,8 +330,9 @@ Output (JSON + CSV + PDF + annotated video)
 
 ## 📸 Screenshots
 
-> Add screenshots here after deployment.  
-> `![Dashboard Home](docs/screenshot_home.png)`
+**Dashboard Home — wearable sync, sleep metrics, AI daily briefing:**
+
+![Dashboard Home](docs/screenshot_home.png)
 
 ---
 
