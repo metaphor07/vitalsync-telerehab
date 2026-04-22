@@ -1,0 +1,6 @@
+flask>=3.0.0
+opencv-python>=4.9.0
+mediapipe>=0.10.9
+numpy>=1.26.0
+matplotlib>=3.8.0
+reportlab>=4.1.0

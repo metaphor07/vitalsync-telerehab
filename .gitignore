@@ -1,0 +1,50 @@
+# ── Python ──────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# ── Virtual environments ─────────────────────────────────────────
+venv/
+env/
+.env/
+.venv/
+
+# ── IDE / Editor ────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ───────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Project-specific ────────────────────────────────────────────
+# Generated output (analysis results, plots, PDFs, CSVs)
+TeleRehab_Project/output/
+
+# Uploaded user videos (large)
+TeleRehab_Project/videos/*.mp4
+TeleRehab_Project/videos/*.mov
+TeleRehab_Project/videos/*.avi
+TeleRehab_Project/videos/*.mkv
+TeleRehab_Project/videos/*.mpeg
+TeleRehab_Project/videos/*.mpg
+
+# Pose-demo videos (large binaries)
+TeleRehab_Project/poseVideos/
+
+# Logs and error dumps
+*.log
+TeleRehab_Project/mediapipe_error.txt
+
+# ── Large binary files ──────────────────────────────────────────
+*.zip
+*.tar.gz
+*.rar
+
+# Demo recording (very large ~292 MB)
+cornerstone_Demo.mp4

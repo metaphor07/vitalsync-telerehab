@@ -1,0 +1,14 @@
+USER_NAME = "Participant 1"
+USER_WEIGHT_KG = 70
+GOAL_MODE = "fitness"   # options: beginner, fitness, rehab
+EXERCISE_NAME = "Squat"
+
+# squat thresholds
+SQUAT_DOWN_THRESHOLD = 110
+SQUAT_UP_THRESHOLD = 155
+SHALLOW_THRESHOLD = 130
+DEEP_THRESHOLD = 90
+
+# warnings
+TORSO_LEAN_WARNING_ANGLE = 35
+IMBALANCE_WARNING_DIFF = 15
