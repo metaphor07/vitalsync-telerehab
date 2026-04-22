@@ -354,4 +354,4 @@ This project was built as an academic cornerstone project. Feel free to use and 
 
 ## 👤 Author
 
-Built with ❤️ using MediaPipe, Flask, and Chart.js.
+Rupak Jana & Hrithik Sharma
